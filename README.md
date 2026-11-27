@@ -332,3 +332,10 @@ Guest demos are capped at 300 at the same time and removed by the worker when th
 ---
 
 <sub>Built by [Nugraha Labib Mujaddid](https://github.com/nugrahalabib). This page describes a private codebase; questions about the product or a demo are welcome at [nugrahalabib@gmail.com](mailto:nugrahalabib@gmail.com).</sub>
+
+## Related
+
+- [AgentBuff](https://github.com/nugrahalabib/agentbuff-showcase)
+- [Smart Home for AgentBuff](https://github.com/nugrahalabib/agentbuff-tuya-showcase)
+- [FinFreedom](https://github.com/nugrahalabib/FinFreedom)
+- [All my work on GitHub](https://github.com/nugrahalabib)
